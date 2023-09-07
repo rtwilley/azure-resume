@@ -1,5 +1,8 @@
-# azure-resume
+HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
+=======
+# Tools used #
+* HTML, CSS and JavaScript
 
-## Azure Resume project
 
-- main.js has the counter code
+
+
